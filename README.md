@@ -1,6 +1,6 @@
 # Taver Game
 
-the taver is a game for cmd and bash and so on and can you improve your think with modes and all of it is coded by **Go**
+the taver is a game for cmd and shell and so on and can you improve your think with modes and all of it is coded by **Go**
 
 ## create it your self
 
